@@ -1,0 +1,43 @@
+#baner{
+       background-color: black;
+       color:yellow;
+       height:50px;
+       text-align: center;
+       font-size:28px;
+            }
+#menu{
+      float:left;
+      width:30%;
+      height:620px;
+      background-color:rgba(9, 9, 12, 0.842);
+      font-size:50px;
+     }
+#main{
+     float:right;
+     width:70%;
+     height:620px;
+     background-color: rgba(2, 2, 2, 0.842);
+     color:white;
+     
+     }
+#stopka{
+        clear:both;
+        background-color:darkgreen;
+        height:50px;
+        font-size:30px;
+        color:darkred;
+        text-align:center;
+       }  
+ ul,ul li {
+       border:2px solid black;     
+     list-style-type: none;
+     margin:auto;
+     padding:4px;
+     }
+a{
+     text-decoration:none;
+}
+a:hover{
+     background-color:green;
+     color:black;
+}
